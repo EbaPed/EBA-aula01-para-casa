@@ -72,8 +72,8 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/EBA-para_casa-aula01.git
-cd EBA-aula01-EstatisticaDescritiva
+git clone https://github.com/EbaPed/EBA-aula01-para-casa.git
+cd EBA-aula01-paracasa
 ```
 
 2. **Configurar a versão do Python com Pyenv**
