@@ -18,7 +18,7 @@ O conjunto de dados é composto por clientes da empresa Ifood com dados sobre:
 
 O **objetivo** de hoje é fazer uma análise exploratória desses dados. 
 
-Responda usando a sua ferramenta de preferência:
+**Responda usando a sua ferramenta de preferência:**
 
 
 1- Quantos dados temos? Linhas e colunas
@@ -31,7 +31,7 @@ Responda usando a sua ferramenta de preferência:
 
 4- Qual é a média, mediana, 25 percentil, 75 percentil, mínimo e máximo de cada uma das colunas numéricas? 
 
-Vamos agora entender o perfil de clientes que temos:
+**Vamos agora entender o perfil de clientes que temos:**
 
 1- Qual é o maior salário encontrado na nossa base? Veja na coluna `Income`!
 
@@ -43,7 +43,7 @@ Vamos agora entender o perfil de clientes que temos:
 
 5- Quantos clientes temos em cada estado civil? Veja na coluna `marital_status`
 
-Agora vamos ver como os dados se correlacionam:
+**Agora vamos ver como os dados se correlacionam:**
 
 1- Qual é a relação de estado civil com número de filhos? Será que as pessoas casadas têm um maior número de filhos? Filhos está na `coluna kids`
 
